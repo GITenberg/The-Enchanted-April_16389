@@ -45,6 +45,8 @@ description: "The Enchanted April is a 1922 novel by British writer Elizabeth vo
   \ in the 15th-century Castello Brown. Critic Terence de Vere White credited The\
   \ Enchanted April with making the Italian resort of Portofino fashionable.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16389#The-Enchanted-April
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-07-29'
 gutenberg_type: Text
