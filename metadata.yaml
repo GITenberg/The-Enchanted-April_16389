@@ -1,0 +1,70 @@
+_repo: The-Enchanted-April_16389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Cholmondeley, Alice
+    - Beauchamp, Mary Annette
+    - Arnim, Elizabeth von
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: "The Enchanted April is a 1922 novel by British writer Elizabeth von\
+  \ Arnim. The work was inspired by a month-long holiday to the Italian Riviera, probably\
+  \ the most widely read (as an English and American best seller in 1923) and perhaps\
+  \ the lightest and most ebullient of her novels.\nThe novel follows four dissimilar\
+  \ women in 1920s England who leave their rainy, grey environments to go on holiday\
+  \ in Italy. Mrs Arbuthnot and Mrs Wilkins, who belong to the same ladies' club but\
+  \ have never spoken, become acquainted after reading a newspaper advertisement for\
+  \ a small medieval castle on the Mediterranean to be let furnished for April. They\
+  \ find some common ground in that both are struggling to make the best of unhappy\
+  \ marriages. They also reluctantly take on the waspish, elderly Mrs Fisher and the\
+  \ stunning but aloof Lady Caroline Dester to defray expenses. The very genuine and\
+  \ open Lottie Wilkins, often muddled and awkward in her speech, has been married\
+  \ only a few years, but she and her husband are rubbing each other the wrong way;\
+  \ as the novel progresses her intuition into her new friends' feelings and needs\
+  \ plays a major role. Rose Arbuthnot is highly religious lady who does extensive\
+  \ charity work, but is married to an author of racy popular novels who neglects\
+  \ her, partly because of her persistent disapproval of his work. Lady Caroline Dester\
+  \ is a beautiful socialite who is tired of the burden of London society and is beginning\
+  \ to regard her life as shallow and empty, after a man she loved died in WWI. Mrs.\
+  \ Fisher is a pompous, snobbish, highly proper lady who knew many Victorian luminaries\
+  \ and regards herself as the hostess and in control of the holiday; she prefers\
+  \ to live in her memories of times past rather than embracing the present and is\
+  \ emotionally closed-off. The four women experience interpersonal tensions but eventually\
+  \ come together at the castle and find rejuvenation in the tranquil beauty of their\
+  \ surroundings, rediscovering hope and love.\nVon Arnim wrote, and set, the book\
+  \ in the 15th-century Castello Brown. Critic Terence de Vere White credited The\
+  \ Enchanted April with making the Italian resort of Portofino fashionable.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16389'
+  wikidata: Q18187988
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Italy -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Female friendship -- Fiction'
+- !lcc 'PR'
+title: The Enchanted April
+url: http://www.gutenberg.org/ebooks/16389
+wikipedia:
+- https://de.wikipedia.org/wiki/Verzauberter_April
+- https://en.wikipedia.org/wiki/The_Enchanted_April
+- https://it.wikipedia.org/wiki/Un_incantevole_aprile_(romanzo)
